@@ -1,5 +1,5 @@
 # myGPT
-Custom chatbot built using APIs and GPT-3.5 turbo model.
+Custom chatbot using APIs and GPT-3.5 Turbo model.
 ## Specifications
 It is built using Gradio framework and can be deployed on Huggingface.co. The model retains previous conversation related to the subject to provide relevant answers.
 ## GPT-3.5 Turbo
